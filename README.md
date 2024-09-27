@@ -20,4 +20,5 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 English
 
 ## Family
-I live with my mother,my sister and my two children.
+I live with my mother,my sister and my two children, Nina and Ramiro.
+And my dog, Negro.
