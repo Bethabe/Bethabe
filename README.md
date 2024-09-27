@@ -22,4 +22,4 @@ English
 
 ## Family
 I live with my mother,my sister and my two children, Nina and Ramiro.
-And my dog, Negro, un perro muy cariñoso.
+And my dog, Negro, un perro muy cariñoso. Además tengo un gato que come mucho.
